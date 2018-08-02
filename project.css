@@ -1,0 +1,189 @@
+ #team
+        {
+            background-color:cornsilk;
+        }
+  #ulone
+    {
+            display :inline-block;
+            text-align: right;
+        display: inline-block;    
+        text-decoration: none;
+        padding: 20px;
+        }
+       
+        p
+        {
+            display: inline-block;
+        }
+        #tableone
+        {
+            padding: 40px;
+            margin: 40px;
+            
+        }
+        #main
+        {
+            background-color: rgb(109,192,185);
+            font-size: 25;
+            padding: 30px;
+        }
+       #a
+        {
+            text-align: right;
+         
+            background-color:rgb(109,192,185);
+            
+            
+        }
+        h1
+        {
+            display: inline-block;
+        }
+        
+        #ch
+        {
+            background-color: rgb(109,192,185);
+        }
+        .list
+        {
+            text-align: right;
+            padding: 20;
+            margin: 0px;
+          display: inline-block;  
+        }
+       
+        
+        a
+        {
+        text-decoration: none;
+            text-align: right;
+            padding: 5;
+            position: sticky;
+         
+            right: 1px;
+            top:2px;
+        }
+        .list 
+        {
+            text-align: right;
+            font-size: 30;
+            text-decoration: none;
+            position: sticky;
+             right: 1px;
+            top:2px;
+            height: 50px;
+        }
+        
+        #new{
+            width: 100%;
+            height: 120px;
+            background-color:azure;
+            display: inline-block;
+            padding: 10px;
+            text-align: center;
+             position: sticky;
+         
+            right: 2px;
+            top:2px;
+        }
+.upcenter
+{
+    height: 40;
+    font-size: 30;
+    
+     background-color:  rgb(109,192,185);
+}
+#formcontact
+{
+    display: inline-block;
+}
+#work
+{
+    width: 80%;
+    background-color: rgb(109,192,185);
+}
+#workbody
+{
+ text-align: center;   
+}
+#cont
+{
+    padding: 50px;
+}
+.pricetable
+{
+    display: inline-block;
+    font-size: 40px;
+    text-align: center;
+      margin: 10px;
+    padding: 20px;
+}
+#listprice
+{
+display: inline-block;
+padding: 20px;
+    margin: 20px;
+    font-size: 35;
+}
+#listtable
+{
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+}
+.buynow
+{
+    background-color: darkgray;
+}
+.price
+{
+    font-size:80px  ;
+    color: red;
+}
+input
+{
+    font-size: 25px;
+    background-color: cadetblue;
+}
+textarea
+{
+    font-size: 15;
+    background-color: aquamarine;
+}
+td
+{
+    border-bottom: solid 1px gray;
+}
+#map
+{
+    border: dashed 2px black;
+}
+#team2
+{
+    background-color: rgb(109,192,185); 
+}
+#worktable
+{
+    font-size: 30px;
+    padding-left: 150px;
+    margin-left: 150px;
+    
+}
+p{
+    font-size: 20px;
+}
+h5
+{
+    color: orange;
+    display: inline-block;
+}
+#blogleft
+{
+    width: 300px;
+    padding: 50;
+}
+#upcenter
+{
+    text-align: center;
+    background-color:bisque;
+}
